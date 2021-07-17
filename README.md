@@ -1,4 +1,4 @@
-![Siddhesh Patil Banner](https://raw.githubusercontent.com/siddhesh1770/siddhesh1770/main/assets/banner.jpg)
+![Siddhesh Patil Banner](https://raw.githubusercontent.com/siddhesh1770/siddhesh1770/main/assets/W001%20(30).jpg)
 
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
