@@ -9,7 +9,7 @@
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at sidpatil1770@gmail.com I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at hello@siddheshpatil.in I'll try to respond as soon as I can.\
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/siddhesh1770/siddhesh1770/main/assets/Night-Coding.gif" align="right"/>
@@ -46,7 +46,7 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/siddhesh1770"><img src="https://img.shields.io/badge/-Siddhesh%20Patil-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:sidpatil1770@gmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:hello@siddheshpatil.in"><img src="https://img.shields.io/badge/-Mail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://steamcommunity.com/id/siddhesh1770/"><img src="https://img.shields.io/badge/-@siddhesh1770-BD081C?style=flat&logo=Steam&logoColor=white"></a>
 <a href="https://instagram.com/siddhesh1770"><img src="https://img.shields.io/badge/-@siddhesh1770-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/siddhesh1770"><img src="https://img.shields.io/badge/-@siddhesh1770-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
